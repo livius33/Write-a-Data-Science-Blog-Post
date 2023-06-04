@@ -29,7 +29,7 @@ To move this data in the right folder, use this line:
 
 In this Project i was keen to answer the following questions by using the survey data
 
-1. What are the most used coding plattforms in 2017?
+1. What are the most used coding platforms in 2017?
 2. What is the most popular developer type?
 3. How does job satisfaction and salary correlate to the developer type?
 
