@@ -31,7 +31,7 @@ In this Project i was keen to answer the following questions by using the survey
 
 1. What are the most used coding platforms in 2017?
 2. What is the most popular developer type?
-3. How does job satisfaction and salary correlate to the developer type?
+3. How do job satisfaction and salary correlate to the developer type?
 
 
 # File Description
