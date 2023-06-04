@@ -12,8 +12,11 @@ Udacity Data Science Nanodegree Project
 
 # Installation
 
-The code runs with Python 3*. It does make use of some libraries, to install does libraries you will need to execute:
-<br>`pip install -r requirements.txt`
+The code runs with Python 3*. It does make use of some libraries, to install does libraries you will need to download:
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
 
 The data used in this project is the Stackoverflow 2017 Annual Developer Survey data. To download it click [here](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017).
 
