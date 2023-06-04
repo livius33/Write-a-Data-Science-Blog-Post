@@ -1,10 +1,8 @@
 # Write-a-Data-Science-Blog-Post
 
+Udacity Data Science Nanodegree Project
 
-
-## Udacity Data Science Nanodegree Project
-
-Table of Contents:
+ ## Table of Contents:
 
 1. Installation
 2. Project Motivation
@@ -12,7 +10,7 @@ Table of Contents:
 4. Results
 5. Licensing, Authors and Acknowledgments
 
-Installation:
+# Installation
 
 The code runs with Python 3*. It does make use of some libraries, to install does libraries you will need to execute:
 pip install -r requirements.txt
@@ -24,7 +22,7 @@ To move this data in the right folder, use this line:
 mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2017/survey_results_public.csv
 
 
-Project Motivation:
+# Project Motivation
 
 In this Project i was keen to answer the following questions by using the survey data
 
@@ -33,18 +31,18 @@ In this Project i was keen to answer the following questions by using the survey
 3. How does job satisfaction and salary correlate to the developer type?
 
 
-File Description:
+# File Description
 
 survey2017-datascientistblogpost.ipynb: The jupyter notebook containing the data analysis
 data/2017/survey_data_results_public.csv: Stackoverflow 2017 Survey Data
 
 
-Results:
+# Results
 
 All of the findings answered by the code can be found in this post
 
 
-Licensing, Authors, Acknowledgements
+# Licensing, Authors, Acknowledgements
 
 Credit goes to Stackoverflow for providing the data. You can find the licensing and data here.
 
