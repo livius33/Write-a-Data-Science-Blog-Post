@@ -42,7 +42,7 @@ In this Project i was keen to answer the following questions by using the survey
 
 # Results
 
-All of the findings answered by the code can be found in this post
+All of the findings answered by the code can be found in this [post](https://medium.com/@liviusdegraaf/what-is-the-most-popular-developer-type-in-2017-b0df5af82ac2)
 
 
 # Licensing, Authors, Acknowledgements
